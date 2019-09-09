@@ -1,0 +1,14 @@
+C:\Users\gauth\source\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\CacheTest.deps.json
+C:\Users\gauth\source\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\CacheTest.runtimeconfig.json
+C:\Users\gauth\source\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\CacheTest.runtimeconfig.dev.json
+C:\Users\gauth\source\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\CacheTest.dll
+C:\Users\gauth\source\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\CacheTest.pdb
+C:\Users\gauth\source\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ReferenceIntegration.dll
+C:\Users\gauth\source\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ReferenceIntegration.pdb
+C:\Users\gauth\source\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\CacheTest.csprojAssemblyReference.cache
+C:\Users\gauth\source\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\CacheTest.csproj.CoreCompileInputs.cache
+C:\Users\gauth\source\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\CacheTest.AssemblyInfoInputs.cache
+C:\Users\gauth\source\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\CacheTest.AssemblyInfo.cs
+C:\Users\gauth\source\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\CacheTest.csproj.CopyComplete
+C:\Users\gauth\source\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\CacheTest.dll
+C:\Users\gauth\source\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\CacheTest.pdb

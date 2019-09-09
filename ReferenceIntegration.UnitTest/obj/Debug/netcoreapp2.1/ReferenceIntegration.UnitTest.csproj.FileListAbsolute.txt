@@ -1,0 +1,17 @@
+C:\Users\gauth\source\ConsoleApp1\ReferenceIntegration.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\gauth\source\ConsoleApp1\ReferenceIntegration.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\gauth\source\ConsoleApp1\ReferenceIntegration.UnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\gauth\source\ConsoleApp1\ReferenceIntegration.UnitTest\bin\Debug\netcoreapp2.1\ReferenceIntegration.UnitTest.deps.json
+C:\Users\gauth\source\ConsoleApp1\ReferenceIntegration.UnitTest\bin\Debug\netcoreapp2.1\ReferenceIntegration.UnitTest.runtimeconfig.json
+C:\Users\gauth\source\ConsoleApp1\ReferenceIntegration.UnitTest\bin\Debug\netcoreapp2.1\ReferenceIntegration.UnitTest.runtimeconfig.dev.json
+C:\Users\gauth\source\ConsoleApp1\ReferenceIntegration.UnitTest\bin\Debug\netcoreapp2.1\ReferenceIntegration.UnitTest.dll
+C:\Users\gauth\source\ConsoleApp1\ReferenceIntegration.UnitTest\bin\Debug\netcoreapp2.1\ReferenceIntegration.UnitTest.pdb
+C:\Users\gauth\source\ConsoleApp1\ReferenceIntegration.UnitTest\bin\Debug\netcoreapp2.1\ReferenceIntegration.dll
+C:\Users\gauth\source\ConsoleApp1\ReferenceIntegration.UnitTest\bin\Debug\netcoreapp2.1\ReferenceIntegration.pdb
+C:\Users\gauth\source\ConsoleApp1\ReferenceIntegration.UnitTest\obj\Debug\netcoreapp2.1\ReferenceIntegration.UnitTest.csprojAssemblyReference.cache
+C:\Users\gauth\source\ConsoleApp1\ReferenceIntegration.UnitTest\obj\Debug\netcoreapp2.1\ReferenceIntegration.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\gauth\source\ConsoleApp1\ReferenceIntegration.UnitTest\obj\Debug\netcoreapp2.1\ReferenceIntegration.UnitTest.AssemblyInfoInputs.cache
+C:\Users\gauth\source\ConsoleApp1\ReferenceIntegration.UnitTest\obj\Debug\netcoreapp2.1\ReferenceIntegration.UnitTest.AssemblyInfo.cs
+C:\Users\gauth\source\ConsoleApp1\ReferenceIntegration.UnitTest\obj\Debug\netcoreapp2.1\ReferenceIntegration.UnitTest.csproj.CopyComplete
+C:\Users\gauth\source\ConsoleApp1\ReferenceIntegration.UnitTest\obj\Debug\netcoreapp2.1\ReferenceIntegration.UnitTest.dll
+C:\Users\gauth\source\ConsoleApp1\ReferenceIntegration.UnitTest\obj\Debug\netcoreapp2.1\ReferenceIntegration.UnitTest.pdb
